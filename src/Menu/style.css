@@ -1,11 +1,115 @@
 .menuContainer {
-  padding-top: 80px;
+  padding-top: 20%;
 }
 
 .title {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 42px 22px;
-  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.menu-button {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.menu-container {
+  margin-top: 7%;
+}
+
+.menu1 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+.menu2 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+.menu3 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+.menu-items-expanded {
+  width: 100%;
+}
+
+.menu-price-expanded {
+  width: 100%;
+  margin-left: 35%;
+}
+
+.menu-name-price-div {
+  color: black;
+  font-family: "Yanone Kaffeesatz";
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  margin-left: 20%;
+  font-size: 20px;
+}
+
+.menu-title-items-expanded {
+  font-size: 30px;
+  color: black;
+  font-family: "Yanone Kaffeesatz";
+  margin-top: 5%;
+}
+
+.menu-subtitle-items-expanded {
+  font-size: 20px;
+  color: black;
+  font-family: "Yanone Kaffeesatz";
+  margin-top: 1%;
+  font-style: italic;
+  margin-bottom: 2%;
+}
+
+.menu-description-div {
+  color: rgb(31, 31, 31);
+  font-family: "Yanone Kaffeesatz";
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 77%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  border-bottom: 1px solid gray;
+}
+
+
+#menu {
+  padding-top: 30px;
 }

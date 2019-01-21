@@ -8,7 +8,7 @@ import Nav from '../Nav';
 import Menu from '../Menu';
 import Contact from '../Contact';
 import Footer from '../Footer';
-import "./style.css";
+import './style.css';
 
 class App extends Component {
   render() {
