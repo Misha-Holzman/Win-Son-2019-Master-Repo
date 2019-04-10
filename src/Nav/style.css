@@ -15,3 +15,28 @@ a > #winson-logo {
 .navbar-start {
   margin-left: 39%;
 }
+
+.nav-toggle {
+  margin-left: -150px;
+}
+
+@media screen and (max-width: 1087px) {
+  #nav-menu {
+    margin-left: auto;
+    min-width: 50%;
+    margin-top: 20%;
+  }
+  .navbar-item {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: #000000;
+    font-family: "Yanone Kaffeesatz";
+    font-size: 36px;
+    line-height: 42px;
+  }
+  .navbar-start {
+    margin-left: 1%;
+  }
+
+}
