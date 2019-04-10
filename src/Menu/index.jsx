@@ -554,7 +554,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'>(apple sidra, sarsaparilla, coke, diet coke, sprite, ginger ale)</p>
                   </div>
-                
                   <br />
 
                   <h2 className='menu-subtitle-items-expanded'> - wine - </h2>
@@ -574,7 +573,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'>alvarelhão, california, 2016 - red</p>
                   </div>
-                  
                   <div className='menu-name-price-div'>
                     <p className='menu-items-expanded'> bigardo </p>
                     <p className='menu-price-expanded'> $15/60 </p>
@@ -670,9 +668,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'>albillo, spain, 2017 - orange</p>
                   </div>
-
-
-
                   <br />
 
                   <h2 className='menu-subtitle-items-expanded'> - can and bottle - </h2>
@@ -764,7 +759,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'>taiwan beer original, lemon, lime, shiro dashi, sriracha, cilantro chili salt rim</p>
                   </div>
-                  
                   <div className='menu-name-price-div'>
                     <p className='menu-items-expanded'> mimosa </p>
                     <p className='menu-price-expanded'> $12 </p>
@@ -872,7 +866,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'>yilan, taiwan</p>
                   </div>
-                  
                   <div className='menu-name-price-div'>
                     <p className='menu-items-expanded'> kavalan port cask </p>
                     <p className='menu-price-expanded'> $24 </p>
@@ -952,8 +945,6 @@ class Menu extends Component {
                   <div className='menu-description-div'>
                     <p className='menu-description-expanded'> park city, utah</p>
                   </div>
-
-
                 </div>
               )
               : (
